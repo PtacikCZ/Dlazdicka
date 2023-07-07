@@ -55,4 +55,4 @@ getgenv().Settings = {
   }
 }
 -- Script --
-loadstring(game:HttpGet("https://raw.githubusercontent.com/PtacikCZ/PSX/main/PREMIUM.LUA%22))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PtacikCZ/PSX/main/PREMIUM.LUA"))()
